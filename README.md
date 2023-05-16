@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am Amara** a ✨ _front end developer_ ✨ who loves to build stuffs with HTML, CSS, Bootstrap and JavaScript. It's nice to meet you.
+**I am Amara** a ✨ _front end developer_ ✨ who loves to build stuffs with HTML, CSS, Bootstrap and JavaScript. I am also a community manager and technical writer. It's nice to meet you.
 
 Here are a few things about me:
 - 🌱 I’m currently learning Vue
