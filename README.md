@@ -5,7 +5,7 @@
 Here are a few things about me:
 - 🌱 I’m currently learning Vue
 - 👯 I’m a technical writer and community manager
-- 📫 How to reach me: [Twitter](https://twitter.com/amarathelight)
+- 📫 How to reach me: [Twitter](https://twitter.com/amxrachijohnson)
 - 😄 Pronouns: she/her
 
 
