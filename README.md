@@ -5,5 +5,5 @@
 Here are a few things about me:
 - 🌱 I’m currently part of the Digital Public Goods Open Source Community Manager Program by Github
 - 👯 I’m passionate about education and women empowerment and a strong advocate for diversity, equity and inclusion
-- 📫 How to reach me: [Twitter](https://twitter.com/amxrachijohnson)
+- 📫 How to reach me: [Twitter](https://twitter.com/amxrachijohnson) or [LinkedIn](https://linkedIn.com/in/amarachijohnson)
 - 😄 Pronouns: she/her
